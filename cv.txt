@@ -1,0 +1,15 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("MULK ALMAMARI CV");
+        System.out.println("Name: MULK BADAR ALMAMARI");
+        System.out.println("Email:mulkbadar774@gmail.com");
+        System.out.println("Phone:94405317");
+        System.out.println("Role: Electronics and telecommunications engineer");
+        System.out.println("Skills: Microsoft office,communication,Excel database,Networking,Cisco packet tracer");
+        System.out.println("Experience: telecommunications engineer at omantel, Network planning engineer at Awasr,database management");
+        System.out.println("Education: Bachelors degree in electronics and telecommunications engineering");
+        System.out.println("Courses:Database management,networking basics(Cisco),HCIA(Huawei)");
+        System.out.println("Languages:Arabic,English");
+
+    }
+}
